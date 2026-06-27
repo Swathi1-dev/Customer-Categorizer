@@ -1,0 +1,13 @@
+ipykernel
+pandas 
+seaborn
+matplotlib
+numpy
+python-dotenv
+xgboost
+scikit-learn
+uvicorn
+fastapi
+pydantic
+streamlit
+joblib
